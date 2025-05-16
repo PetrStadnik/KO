@@ -117,3 +117,4 @@ if __name__ == '__main__':
         with open(sys.argv[2], "w") as f:
             for s in starts:
                 f.write(str(s)+"\n")
+
